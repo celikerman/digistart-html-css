@@ -1,0 +1,21 @@
+div {
+    background-color: grey;
+   }
+
+p    {
+    color: red;
+}
+
+img {
+    border:1px solid black;
+}
+
+.contenu-mixte {
+    text-align: Justify
+}
+.contenu-texte {
+    font-family:Arial;
+    font-size:18Px;
+}
+
+

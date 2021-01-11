@@ -20,6 +20,8 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 ```css
 * {
   color: red;
+  font-fafily:san-serif;
+  tex-decoration:underline
 }
 ```
 
@@ -27,7 +29,7 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 
 **Rappel : Effacez ce code CSS avant de passer à la suite.**
 
-![Résultat de l'exercice 1](./resultats/resultat1.png)
+![Résultat de l'exercice 1](./resultats/resultat.png)
 
 ## Exercice 2 : Les sélecteurs de type
 
