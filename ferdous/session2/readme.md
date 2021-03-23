@@ -1,4 +1,4 @@
-# Session 2 : Les attributs et les relations entre éléments HTML
+<# Session 2 : Les attributs et les relations entre éléments HTML
 
 ## Cours
 

@@ -8,10 +8,27 @@
 
   <body>
     <!-- TODO: Écrire une balise <h1> avec un attribut id="hello" et le contenu suivant : Bonjour -->
+<<<<<<< HEAD
+          <h1 id="hello"> Bonjour </h1>
+||||||| parent of edffa09 (22 mars)
+
+=======
 <h1 id="hello">  Bpnjour</h1>
+>>>>>>> edffa09 (22 mars)
     <!-- TODO: Modifier le contenu de l'élément h1 demandé ci-dessus et insérer une balise <u> autour du texte Bonjour -->
+<<<<<<< HEAD
+      <h1 id="hello"> <u>Bonjour </u> </h1>
+||||||| parent of edffa09 (22 mars)
+
+=======
       <h1 id="hello"> <u> Bpnjour </u> </h1>
+>>>>>>> edffa09 (22 mars)
     <!-- TODO: Écrire une balise <img> dont la source est le fichier monImage.png -->
+<<<<<<< HEAD
+          <img src="./monImage.png" />
+||||||| parent of edffa09 (22 mars)
+=======
     <img src=" monImage.png" alt="je vous presente mon image">
+>>>>>>> edffa09 (22 mars)
   </body>
 </html>

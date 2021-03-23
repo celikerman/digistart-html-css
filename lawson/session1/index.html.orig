@@ -6,9 +6,29 @@
 
   <body>
     <!-- TODO: Écrire une balise <h1> avec le contenu suivant : Mes premières balises HTML -->
+<<<<<<< HEAD
+<h1></h1> Mes premières balises HTML <h1>
+||||||| parent of edffa09 (22 mars)
+
+=======
 <h1> Mes premières balises <Html></Html>
+>>>>>>> edffa09 (22 mars)
     <!-- TODO: Écrire une balise <h2> avec le contenu suivant : Hello World -->
+<<<<<<< HEAD
+<h2></h2> Hello world <h2>
+||||||| parent of edffa09 (22 mars)
+
+=======
 <h2> Hello World
+>>>>>>> edffa09 (22 mars)
     <!-- TODO: Écrire une balise <p> avec le contenu suivant : Bonjour, bienvenue sur la page de [prénom] -->
+<<<<<<< HEAD
+  </body> <p> Bonjour, bienvenue sur la page de [prénom] >
+</html> <P> </P>
+||||||| parent of edffa09 (22 mars)
+  </body>
+</html>
+=======
   </body>
 </html> <p> / Bonjour, bienvenu sur la page de Lawson </>
+>>>>>>> edffa09 (22 mars)
