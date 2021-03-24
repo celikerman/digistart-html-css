@@ -1,4 +1,4 @@
-div {
+  div {
     background-color: grey;
   }
 
@@ -6,7 +6,41 @@ div {
     color: red;
   }
 
-  img {
+  img { 
     border-style: solid;
     border-width: 4px;
+    color:black;
   }
+
+  .contenu-mixte {
+
+    text-align: center;
+  }
+
+  .contenu-texte {
+
+    font-family: arial;
+    font-size: 18px;
+  
+  }
+
+  #section-1 {
+    color: blue;
+  }
+  #section-2 {
+    color: orange;
+ }
+  #section-3 {
+    color: purple;
+ }
+
+ .contenu-mixte p {
+    text-align: right;
+ }
+
+ #section-3 p {
+    text-align: justify;
+    color: black;
+    background-color: white;
+ }
+

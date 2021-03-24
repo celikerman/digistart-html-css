@@ -19,7 +19,7 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 
 ```css
 * {
-  color: red;
+  
 }
 ```
 
@@ -36,6 +36,7 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 Dans le fichier `style.css` :
 
 - Écrire une règle pour appliquer un fond gris (valeur `grey`) pour tous les éléments `<div>` grâce à la propriété `background-color`.
+<div> color
 - Écrire une règle pour changer la couleur des éléments `<p>` en rouge (valeur `red`).
 - Écrire une règle pour ajouter une bordure noire de 4 pixels aux éléments `<img>` grâce à la propriété CSS `border`.
 

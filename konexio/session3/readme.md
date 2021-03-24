@@ -4,7 +4,7 @@
 
 [Cliquer ici pour consulter le cours](https://docs.google.com/presentation/d/1dg38FJXCl1ziTAqSmZfFF7qrLgn93YQkcbgoRoBHC80/edit?usp=sharing)
 
-## Documentation
+## Doctyumentation
 
 [Cliquer ici pour consulter la documentation CSS sur MDN](https://developer.mozilla.org/fr/docs/Web/CSS/Reference#Index_des_mots-cl%C3%A9s)
 

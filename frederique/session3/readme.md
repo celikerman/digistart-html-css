@@ -23,7 +23,7 @@ Ajoutez le code ci-dessous dans `style.css` pour vérifier que tout fonctionne b
 }
 ```
 
-### Résultat attendu pour l'exercice 1
+### Résultat attendu pour l'exercice
 
 **Rappel : Effacez ce code CSS avant de passer à la suite.**
 
