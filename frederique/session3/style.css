@@ -17,4 +17,30 @@ img {
 .contenu-texte {
     font-family:Arial;
     font-size: 18px;
-}  
+}
+
+#selection-1 {
+    color: blue;
+}
+
+#selection-2 {
+    color: orange;
+}
+
+#selection-3 {
+    color:purple;
+}
+
+.contenu-mixte {
+     text-align: ;
+}
+
+.contenu-mixte p {
+    text-align: right;
+}
+
+#section-3 p {
+    text-align: justify;
+    color: black;
+    background-color: white;
+}

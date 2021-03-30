@@ -14,29 +14,31 @@ img {
     text-align: center;
 }
 
-.contenu-texte {
+.contenu-mixte {
     font-family:Arial;
-    font-size: 18px;
+    font-size :18px
 }
 
-#section-1 {
-    color: blue;
+#section-1  {
+    color : blue
 }
+
+"contenu-mixte"
 
 #section-2 {
-    color: orange;
+    color : orange
 }
 
 #section-3 {
-    color: purple;
+    color : purple
 }
 
 .contenu-mixte p {
-    text-align: right;
+text-align: right;
 }
 
 #section-3 p {
-    text-align: justify;
-    color: black;
-    background-color: white;
+text-align: justify;
+color: black;
+blackground-color : white;
 }
